@@ -26,7 +26,7 @@
           "4": "VAT Calculations\n--------------------"
         },
         {
-          "4": "#1 VAT due in this period on sales and other outputs",
+          "4": "#1 VAT due in the period on sales and other outputs",
           "5": [
             {
               "9": "56769971-405e-47bd-bd13-d64de0eae752"
@@ -37,7 +37,9 @@
           ]
         },
         {
-          "4": "#2 VAT due in this period on acquisitions from other EC Member States"
+          "4": "#2 VAT due in the period on acquisitions of goods made in Northern Ireland from EU Member States",
+		  "5": ["0"
+		  ]
         },
         {
           "4": "#3 Total VAT due (the sum of boxes 1 and 2)",
@@ -51,7 +53,7 @@
           ]
         },
         {
-          "4": "#4 VAT reclaimed in this period on purchases and other inputs (including acquisitions from the EC)",
+          "4": "#4 VAT reclaimed in the period on purchases and other inputs (including acquisitions in Northern Ireland from EU member states)",
           "5": [
             {
               "9": "b926c2d8-09e4-496c-9a2c-818c8aaa36ed",
@@ -64,7 +66,7 @@
           ]
         },
         {
-          "4": "#5 Net VAT to be paid to Customs or reclaimed by you (Difference between boxes 3 and 4)",
+          "4": "#5 Net VAT to pay to HMRC or reclaim (difference between boxes 3 and 4)",
           "5": [
             {
               "9": "b926c2d8-09e4-496c-9a2c-818c8aaa36ed",
@@ -80,7 +82,7 @@
           "4": "Sales and Purchases Excluding VAT\n--------------------"
         },
         {
-          "4": "#6 Total value of sales and all other outputs excluding any VAT. Include your box 8 figure.",
+          "4": "#6 Total value of sales and all other outputs excluding any VAT.",
           "5": [
             {
               "9": "b926c2d8-09e4-496c-9a2c-818c8aaa36ed",
@@ -105,7 +107,7 @@
           ]
         },
         {
-          "4": "#7 Total value of purchases and all other inputs excluding any VAT. Include your box 9 figure.",
+          "4": "#7 The total value of purchases and all other inputs excluding any VAT.",
           "5": [
             {
               "9": "b926c2d8-09e4-496c-9a2c-818c8aaa36ed",
@@ -130,22 +132,14 @@
           ]
         },
         {
-          "4": "#8 Total value of all supplies of goods and related costs, excluding any VAT, to other EC Member States.",
+          "4": "#8 Total value of dispatches of goods and related costs (excluding VAT) from Northern Ireland to EU Member States.",
           "5": [
-            {
-              "9": "70364d69-174a-4804-881e-852bdbff59e2",
-              "4": 2
-            }
-          ]
+            ]
         },
         {
-          "4": "#9 Total value of acquisitions of goods and related costs, excluding any VAT, from other EC Member States.",
+          "4": "#9 Total value of acquisitions of goods and related costs (excluding VAT) made in Northern Ireland from EU Member States.",
           "5": [
-            {
-              "9": "70364d69-174a-4804-881e-852bdbff59e2",
-              "4": 5
-            }
-          ]
+           ]
         }
       ],
       "19": [
